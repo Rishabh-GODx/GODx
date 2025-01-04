@@ -1,3 +1,5 @@
+//bhai banna nhi paya sorry
+
 // Sample temple data
 const temples = [
     {
@@ -89,6 +91,7 @@ function navigateToTemple(lat, lng) {
     // In production, integrate with maps API
     alert(`Navigating to location: ${lat}, ${lng}`);
 }
+
 
 // Render temple cards
 document.addEventListener('DOMContentLoaded', () => {
